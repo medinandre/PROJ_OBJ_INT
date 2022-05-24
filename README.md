@@ -7,5 +7,9 @@ Os seguintes elementos foram utilizados no projeto:<br />
 -Módulo Sensor De Temperatura Infravermelho GY-906-BCC IR<br />
 -Micro Servo MG90S TowerPro<br />
 -Sensor de presença HC-SR501<br />
+
+Software utilizado:<br />
+-Arduino Software (IDE)
+
 <br /><br /><br />
 ![projeto_bb](https://user-images.githubusercontent.com/53839422/169926782-3a75cdce-1299-4f2a-b131-80570bd50a4b.jpg)
