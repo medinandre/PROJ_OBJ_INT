@@ -10,7 +10,7 @@ Os seguintes elementos foram utilizados no projeto:<br />
 -Esp-01 Esp8266<br />
 
 Software utilizado:<br />
--Arduino Software (IDE)<br /><br />
+-Arduino Software (IDE)<br />
 
 *É realizada uma conectividade com a nuvem através de MQTT (Message Queue Telemetry Transport), dispolibilizando as medidas de temperatura e mensagens do display pelo microcontrolador ESP-01.
 
